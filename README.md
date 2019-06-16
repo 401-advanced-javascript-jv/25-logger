@@ -10,7 +10,7 @@
 
 ### Setup
 #### `.env` requirements
-- `QUEUE_SERVER` URL of the running queue server
+- `Q_SERVER` URL of the running queue server
 
 #### Running the app
 * `npm start`
