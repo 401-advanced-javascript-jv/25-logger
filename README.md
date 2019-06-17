@@ -13,6 +13,7 @@
 ### Setup
 #### `.env` requirements
 - `Q_SERVER` URL of the running queue server
+  - Example: `Q_SERVER=http://localhost:3333`
 
 #### Running the app
 * `npm start`
