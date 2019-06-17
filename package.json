@@ -15,9 +15,7 @@
   "homepage": "https://github.com/401-advanced-javascript-jv/19-logger#readme",
   "dependencies": {
     "@nmq/q": "^1.0.3",
-    "dotenv": "^8.0.0",
-    "eslint": "^5.16.0",
-    "jest": "^24.8.0"
+    "dotenv": "^8.0.0"
   },
   "prettier": {
     "singleQuote": true,
@@ -39,6 +37,8 @@
   },
   "description": "## Message Queue Server",
   "devDependencies": {
-    "prettier": "^1.18.0"
+    "prettier": "^1.18.0",
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
   }
 }
